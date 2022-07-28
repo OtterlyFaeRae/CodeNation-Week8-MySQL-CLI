@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "\"# MC39-Week8-MySQL-CLI\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtterlyFaeRae/MC39-Week8-MySQL-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtterlyFaeRae/MC39-Week8-MySQL-CLI/issues"
+  },
+  "homepage": "https://github.com/OtterlyFaeRae/MC39-Week8-MySQL-CLI#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3",
+    "yargs": "^17.5.1"
+  }
+}
